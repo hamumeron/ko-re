@@ -1,0 +1,38 @@
+body {
+  background: #fafafa;
+  font-family: sans-serif;
+  margin: 20px;
+}
+
+.wrap {
+  max-width: 500px;
+  margin: auto;
+}
+
+.puzzle {
+  background: #fff;
+  padding: 15px;
+  margin: 12px 0;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.cipher {
+  font-size: 1.2rem;
+}
+
+.solved {
+  font-size: 1.2rem;
+  color: green;
+}
+
+input {
+  padding: 6px;
+  margin-top: 5px;
+  width: 80%;
+}
+
+button {
+  margin-top: 6px;
+  padding: 6px 10px;
+}
